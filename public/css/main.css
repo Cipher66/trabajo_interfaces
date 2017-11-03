@@ -151,7 +151,8 @@ ul li {
 	/*color: #000;*/
 	/*color: #f0de00;
 	//color: red;*/
-	color: #f0a503;
+	/*color: #f0a503; --> color original*/
+	color: darkred;
 	text-shadow: 1px 1px black;
 	font-size: 13px;
 	font-weight: 400;
@@ -162,7 +163,8 @@ ul li {
 .navigation a:hover, .navigation a.active {
 	/*color: #fff;
 	color: #000;*/
-	color: #f0de00;
+	/*color: #f0de00; --> color original*/
+	color: red;
 }
 .nav-toggle {
 	display: none;
@@ -202,7 +204,8 @@ ul li {
 }
 .nav-toggle:before {
 	/*background-color: #4b1685;*/
-	background-color: #f0de00;
+	/*background-color: #f0de00;--> color original*/
+	background-color: darkred;
 	-moz-transform: scale(1);
 	-ms-transform: scale(1);
 	-webkit-transform: scale(1);
@@ -214,7 +217,8 @@ ul li {
 }
 .nav-toggle:after {
 	/*background-color: #4b1685;*/
-	background-color: #f0de00;
+	/*background-color: #f0de00;--> color original*/
+	background-color: darkred;
 	-moz-transform: scale(0);
 	-ms-transform: scale(0);
 	-webkit-transform: scale(0);
@@ -226,7 +230,8 @@ ul li {
 }
 .nav-toggle span {
 	/*background-color: #fff;*/
-	background-color: #000;
+	/*background-color: #000; --> color original*/
+	background-color: white;
 	bottom: auto;
 	display: inline-block;
 	height: 3px;
@@ -243,7 +248,8 @@ ul li {
 }
 .nav-toggle span:before, .nav-toggle span:after {
 	/*background-color: #fff;*/
-	background-color: #000;
+	/*background-color: #000; --> color original*/
+	background-color: whitesmoke;
 	content: "";
 	height: 100%;
 	position: absolute;
@@ -291,7 +297,8 @@ ul li {
 }
 .nav-toggle.close-nav span:before, .nav-toggle.close-nav span:after {
 	/*background-color: #fff;*/
-	background-color: #000;
+	/*background-color: #000; --> color original*/
+	background-color: whitesmoke;
 }
 .nav-toggle.close-nav span:before {
 	-moz-transform: translateY(0) rotate(45deg);
@@ -313,7 +320,8 @@ ul li {
 	/*background-color: #65349c;*/
 	/*background-image: url("http://www.dynapro.co.uk/Site/graphics/Technical%20Info/TC108-LC/TC108-LC_Car_Dyno_2.jpg");*/
 	/*background-image: url("http://images.caricos.com/l/lamborghini/2018_lamborghini_huracan_super_trofeo_evo/images/1920x1080/2018_lamborghini_huracan_super_trofeo_evo_1_1920x1080.jpg");*/
-	background-image: url("../images/Lambo_Hu_ST.jpg");
+	/*background-image: url("../images/Lambo_Hu_ST.jpg");*/
+	background-image: url("../images/Ferrari_812SF.jpg");
 	min-height: 750px;
 	width: 100%;
     background-repeat: no-repeat;
@@ -347,7 +355,8 @@ ul li {
 	font-weight: 400;
 }
 .button_CSS {
-    background-color: #000C15; /* Green */
+    /*background-color: #000C15; /* Green */
+	background-color: darkred;
     border: none;
     color: white;
     padding: 15px 32px;
@@ -374,7 +383,8 @@ ul li {
   }
   .work .overlay {
     /*background: rgba(64, 35, 97, 0.9);*/
-	  background: #f0de00;
+	  /*background: #f0de00;*/
+	  background: darkred;
     height: 100%;
     left: 0;
     opacity: 0;
@@ -647,8 +657,9 @@ margin-top:50px;
 /*<-- Mis CSS's -->*/
 
 #introduccion {
-	margin-left: 400px;
-	margin-right: 400px;
+	/*margin-left: 400px;
+	margin-right: 400px;*/
+	margin: auto;
 }
 #formulario {
 	background:#fafafa;

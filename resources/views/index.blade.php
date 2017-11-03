@@ -69,6 +69,7 @@
 </div>
 <br />
 <!-- portfolio section -->
+<!--
 <section id="works" class="works section no-padding">
   <div class="container-fluid">
     <div class="row no-gutter">
@@ -79,7 +80,7 @@
           </div>
         </div>
         <!-- overlay --> 
-        </a> </div>
+        <!--</a> </div>
       <div class="col-lg-3 col-md-6 col-sm-6 work"> <a class="work-box"> <img src="images/GT3.jpg" alt="" width="600px" height="450px">
         <div class="overlay">
           <div class="overlay-caption">
@@ -87,7 +88,7 @@
           </div>
         </div>
         <!-- overlay --> 
-        </a> </div>
+        <!--</a> </div>
       <div class="col-lg-3 col-md-6 col-sm-6 work"> <a class="work-box"> <img src="images/Rally.jpg" alt="" width="600px" height="450px">
         <div class="overlay">
           <div class="overlay-caption">
@@ -95,7 +96,7 @@
           </div>
         </div>
         <!-- overlay --> 
-        </a> </div>
+        <!--</a> </div>
       <div class="col-lg-3 col-md-6 col-sm-6 work"> <a class="work-box"> <img src="images/Track_day.jpg" alt="" width="600px" height="450px">
         <div class="overlay">
           <div class="overlay-caption">
@@ -105,6 +106,7 @@
     </div>
   </div>
 </section>
+-->
 <!-- portfolio section -->
 <!-- footer -->
 <footer class="section footer">
