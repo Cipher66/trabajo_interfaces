@@ -659,7 +659,8 @@ margin-top:50px;
 #introduccion {
 	/*margin-left: 400px;
 	margin-right: 400px;*/
-	margin: auto;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 #formulario {
 	background:#fafafa;

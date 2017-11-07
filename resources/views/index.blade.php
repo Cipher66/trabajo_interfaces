@@ -24,7 +24,7 @@
 <section class="banner" role="banner">
   <header id="header"> 
     <!-- navigation section  -->
-    <div class="header-content clearfix"> <a class="logo" href="/"><img src="images/velocimetro.jpg" alt="Mafolio" width="100px" height="100px"></a>
+    <div class="header-content clearfix">
       <nav class="navigation" role="navigation">
         <ul class="primary-nav">
           <li><a href="registrarse">Registrarse</a></li>
@@ -57,11 +57,12 @@
   </div>
 </section>
 <!-- description text section -->
-<center><h1><a id="quienes_somos"></a> Quiénes somos</h1></center>
+<center><h1><a id="quienes_somos"></a>¿Qué hacemos?</h1></center>
 <div id="introduccion">
   Esta página web está dedicada a diagnosticar vehículos de competición en tiempo real. Nuestro trabajo es recibir los datos procedentes de los dispositivos
   OBD instalados en los vehículos y tratarlos de manera que el usuario final pueda entenderlos y tenerlos a su alcance.
 </div>
+<center><div class="button_CSS">¡Conócenos!</div></center>
 <br />
 <center><h1>Disciplinas aplicables</h1></center>
 <div id="introduccion">
