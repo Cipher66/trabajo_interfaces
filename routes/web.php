@@ -26,7 +26,7 @@ Route::get('/conocenos', function (){
 });
 Route::get('/registro', function (){
       return view('working');
-})
+});
 
 
 Route::post('/Datos_de_registro', function(){
