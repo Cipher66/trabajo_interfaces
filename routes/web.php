@@ -24,6 +24,11 @@ Route::get('/Datos_de_registro', function (){
 Route::get('/conocenos', function (){
       return view('conocenos');
 });
+Route::get('/registro', function (){
+      return view('working');
+})
+
+
 Route::post('/Datos_de_registro', function(){
       $nombre=request()->get('Nombre');
       $apellido=request()->get('Apellido');

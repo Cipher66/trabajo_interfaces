@@ -62,7 +62,7 @@
   Esta página web está dedicada a diagnosticar vehículos de competición en tiempo real. Nuestro trabajo es recibir los datos procedentes de los dispositivos
   OBD instalados en los vehículos y tratarlos de manera que el usuario final pueda entenderlos y tenerlos a su alcance.
 </div>
-<center><div class="button_CSS">¡Conócenos!</div></center>
+<center><a href="conocenos"><div class="button_CSS">¡Conócenos!</div></a></center>
 <br />
 <center><h1>Disciplinas aplicables</h1></center>
 <div id="introduccion">
