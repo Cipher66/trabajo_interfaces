@@ -160,11 +160,20 @@ ul li {
 	letter-spacing: 3px;
 	text-transform: uppercase;
 }
-.navigation a:hover, .navigation a.active {
+/*.navigation a:hover, .navigation a.active {
 	/*color: #fff;
 	color: #000;*/
-	/*color: #f0de00; --> color original*/
+	/*color: #f0de00; --> color original*//*
 	color: red;
+}*/
+#rojo:hover{
+	color: red;
+}
+#amarillo:hover{
+	color: yellow;
+}
+#verde:hover{
+	color: green;
 }
 .nav-toggle {
 	display: none;

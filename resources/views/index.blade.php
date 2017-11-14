@@ -27,9 +27,9 @@
     <div class="header-content clearfix">
       <nav class="navigation" role="navigation">
         <ul class="primary-nav">
-          <li><a href="registrarse">Registrarse</a></li>
-          <li><a href="#quienes_somos">Quienes somos</a></li>
-          <li><a href="http://www.zubirimanteo.hezkuntza.net/web/guest/inicio">Web de Zubiri Manteo</a></li>
+          <li><a href="registro" id="rojo">Registrarse</a></li>
+          <li><a href="#quienes_somos" id="amarillo">Quienes somos</a></li>
+          <li><a href="http://www.zubirimanteo.hezkuntza.net/web/guest/inicio" id="verde">Web de Zubiri Manteo</a></li>
         </ul>
       </nav>
       <a href="#" class="nav-toggle">Menu<span></span></a> </div>
@@ -52,7 +52,7 @@
   <div class="container">
     <div class="col-md-10 col-md-offset-1 text-center">
       <p>Bienvenido, en esta página web podrás hacer un diagnostico a tu vehículo en tiempo real</p>
-      <a href="/registrarse"><div class="button_CSS">¡Registrate para empezar!</div></a>
+      <a href="/registro"><div class="button_CSS">¡Registrate para empezar!</div></a>
     </div>
   </div>
 </section>
