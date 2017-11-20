@@ -169,11 +169,17 @@ ul li {
 #rojo:hover{
 	color: red;
 }
+#amarillo{
+	color: #CCAE0D;
+}
 #amarillo:hover{
 	color: yellow;
 }
+#verde{
+	color: #005101;
+}
 #verde:hover{
-	color: green;
+	color: #44CC00;
 }
 .nav-toggle {
 	display: none;
