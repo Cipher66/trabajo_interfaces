@@ -24,12 +24,12 @@
 <section class="banner" role="banner">
   <header id="header"> 
     <!-- navigation section  -->
-    <div class="header-content clearfix">
+    <div class="header-content clearfix"> <a href="/" id="menu">Menú principal</a>
       <nav class="navigation" role="navigation">
         <ul class="primary-nav">
           <li><a href="registro" id="rojo">Registrarse</a></li>
-          <li><a href="#quienes_somos" id="amarillo">Quienes somos</a></li>
-          <li><a href="http://www.zubirimanteo.hezkuntza.net/web/guest/inicio" id="verde">Web de Zubiri Manteo</a></li>
+          <li><a href="conocenos#introduccion" id="amarillo">Quienes somos</a></li>
+          <li><a href="multimedia" id="verde">Contenido multimedia</a></li>
         </ul>
       </nav>
       <a href="#" class="nav-toggle">Menu<span></span></a> </div>
@@ -53,6 +53,8 @@
     <div class="col-md-10 col-md-offset-1 text-center">
       <p>Bienvenido, en esta página web podrás hacer un diagnostico a tu vehículo en tiempo real</p>
       <a href="/registro"><div class="button_CSS">¡Registrate para empezar!</div></a>
+      <br />
+
     </div>
   </div>
 </section>
@@ -62,53 +64,8 @@
   Esta página web está dedicada a diagnosticar vehículos de competición en tiempo real. Nuestro trabajo es recibir los datos procedentes de los dispositivos
   OBD instalados en los vehículos y tratarlos de manera que el usuario final pueda entenderlos y tenerlos a su alcance.
 </div>
-<center><a href="conocenos"><div class="button_CSS">¡Conócenos!</div></a></center>
+<center><a href="conocenos#introduccion"><div class="button_CSS">¡Conócenos!</div></a></center>
 <br />
-<center><h1>Disciplinas aplicables</h1></center>
-<div id="introduccion">
-  Aquí tienes las posibles disciplinas a las que se podría aplicar esta aplicación, desde competiciones tradicionales a simples carreras en circuitos.
-</div>
-<br />
-<!-- portfolio section -->
-<!--
-<section id="works" class="works section no-padding">
-  <div class="container-fluid">
-    <div class="row no-gutter">
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a class="work-box"> <img src="images/DTM.jpg" alt="" width="600px" height="450px">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <h5>DTM</h5>
-          </div>
-        </div>
-        <!-- overlay --> 
-        <!--</a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a class="work-box"> <img src="images/GT3.jpg" alt="" width="600px" height="450px">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <h5>GT3</h5>
-          </div>
-        </div>
-        <!-- overlay --> 
-        <!--</a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a class="work-box"> <img src="images/Rally.jpg" alt="" width="600px" height="450px">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <h5>WRC</h5>
-          </div>
-        </div>
-        <!-- overlay --> 
-        <!--</a> </div>
-      <div class="col-lg-3 col-md-6 col-sm-6 work"> <a class="work-box"> <img src="images/Track_day.jpg" alt="" width="600px" height="450px">
-        <div class="overlay">
-          <div class="overlay-caption">
-            <h5>Track day</h5>
-          </div>
-        </div>
-    </div>
-  </div>
-</section>
--->
-<!-- portfolio section -->
 <!-- footer -->
 <footer class="section footer">
   <center><h3><b>Contactos de redes sociales</b></h3></center>

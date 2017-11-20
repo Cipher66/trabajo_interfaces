@@ -153,7 +153,7 @@ ul li {
 	//color: red;*/
 	/*color: #f0a503; --> color original*/
 	color: darkred;
-	text-shadow: 1px 1px black;
+	/*text-shadow: 1px 1px black;*/
 	font-size: 13px;
 	font-weight: 400;
 	margin-left: 40px;
@@ -663,13 +663,20 @@ margin-top:50px;
     font-weight: 700;
 }
 
-/*<-- Mis CSS's -->*/
+/* ------------------------------------------------------------------------------
+	Mis CSS's
+-------------------------------------------------------------------------------*/
 
 #introduccion {
 	/*margin-left: 400px;
 	margin-right: 400px;*/
 	margin-left: 100px;
 	margin-right: 100px;
+	/******************/
+	color: #3d3d3d;
+	font-size: 18px;
+	line-height: 33px;
+	font-weight: 400;
 }
 #formulario {
 	background:#fafafa;
@@ -695,4 +702,23 @@ margin-top:50px;
 	font-style:normal;
 	border:#f4f3f3 1px solid;
 	font-size:15px;
+}
+#textos{
+	color: #3d3d3d;
+	font-size: 18px;
+	line-height: 33px;
+	font-weight: 400;
+	padding: 100px 0;
+}
+#menu{
+	color: darkred;
+	/*text-shadow: 1px 1px 1px 1px black;*/
+	font-size: 13px;
+	font-weight: 400;
+	margin-left: 40px;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+}
+#menu:hover{
+	color: red;
 }
