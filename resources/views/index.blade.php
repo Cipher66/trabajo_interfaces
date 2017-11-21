@@ -28,8 +28,8 @@
       <nav class="navigation" role="navigation">
         <ul class="primary-nav">
           <li><a href="registro" id="rojo">Registrarse</a></li>
-          <li><a href="conocenos#introduccion" id="amarillo">Quienes somos</a></li>
-          <li><a href="multimedia" id="verde">Contenido multimedia</a></li>
+          <li><a href="conocenos#introduccion">Quienes somos</a></li>
+          <li><a href="multimedia">Contenido multimedia</a></li>
         </ul>
       </nav>
       <a href="#" class="nav-toggle">Menu<span></span></a> </div>

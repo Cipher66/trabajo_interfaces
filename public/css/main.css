@@ -152,8 +152,9 @@ ul li {
 	/*color: #f0de00;
 	//color: red;*/
 	/*color: #f0a503; --> color original*/
-	color: darkred;
+	/*color: darkred;*/
 	/*text-shadow: 1px 1px black;*/
+	color: #003399;
 	font-size: 13px;
 	font-weight: 400;
 	margin-left: 40px;
@@ -166,7 +167,7 @@ ul li {
 	/*color: #f0de00; --> color original*//*
 	color: red;
 }*/
-#rojo:hover{
+/*#rojo:hover{
 	color: red;
 }
 #amarillo{
@@ -180,6 +181,9 @@ ul li {
 }
 #verde:hover{
 	color: #44CC00;
+}*/
+a:hover{
+	color: #FFCC00;
 }
 .nav-toggle {
 	display: none;
@@ -220,7 +224,8 @@ ul li {
 .nav-toggle:before {
 	/*background-color: #4b1685;*/
 	/*background-color: #f0de00;--> color original*/
-	background-color: darkred;
+	/*background-color: darkred;*/
+	background-color: #003399;
 	-moz-transform: scale(1);
 	-ms-transform: scale(1);
 	-webkit-transform: scale(1);
@@ -233,7 +238,8 @@ ul li {
 .nav-toggle:after {
 	/*background-color: #4b1685;*/
 	/*background-color: #f0de00;--> color original*/
-	background-color: darkred;
+	/*background-color: darkred;*/
+	background-color: #003399;
 	-moz-transform: scale(0);
 	-ms-transform: scale(0);
 	-webkit-transform: scale(0);
@@ -246,7 +252,8 @@ ul li {
 .nav-toggle span {
 	/*background-color: #fff;*/
 	/*background-color: #000; --> color original*/
-	background-color: white;
+	/*background-color: white;*/
+	background-color: #FFCC00;
 	bottom: auto;
 	display: inline-block;
 	height: 3px;
@@ -264,7 +271,8 @@ ul li {
 .nav-toggle span:before, .nav-toggle span:after {
 	/*background-color: #fff;*/
 	/*background-color: #000; --> color original*/
-	background-color: whitesmoke;
+	/*background-color: whitesmoke;*/
+	background-color: #FFCC00;
 	content: "";
 	height: 100%;
 	position: absolute;
@@ -313,7 +321,8 @@ ul li {
 .nav-toggle.close-nav span:before, .nav-toggle.close-nav span:after {
 	/*background-color: #fff;*/
 	/*background-color: #000; --> color original*/
-	background-color: whitesmoke;
+	/*background-color: whitesmoke;*/
+	background-color: #FFCC00;
 }
 .nav-toggle.close-nav span:before {
 	-moz-transform: translateY(0) rotate(45deg);
@@ -371,9 +380,9 @@ ul li {
 }
 .button_CSS {
     /*background-color: #000C15; /* Green */
-	background-color: darkred;
+	background-color: #003399;
     border: none;
-    color: white;
+    color: #FFCC00;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
@@ -399,7 +408,8 @@ ul li {
   .work .overlay {
     /*background: rgba(64, 35, 97, 0.9);*/
 	  /*background: #f0de00;*/
-	  background: darkred;
+	  /*background: darkred;*/
+	  background: #003399;
     height: 100%;
     left: 0;
     opacity: 0;
@@ -717,8 +727,9 @@ margin-top:50px;
 	padding: 100px 0;
 }
 #menu{
-	color: darkred;
+	/*color: darkred;*/
 	/*text-shadow: 1px 1px 1px 1px black;*/
+	color: #003399;
 	font-size: 13px;
 	font-weight: 400;
 	margin-left: 40px;
@@ -726,5 +737,6 @@ margin-top:50px;
 	text-transform: uppercase;
 }
 #menu:hover{
-	color: red;
+	/*color: red;*/
+	color: #FFCC00;
 }
