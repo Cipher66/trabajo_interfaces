@@ -689,10 +689,10 @@ margin-top:50px;
 	margin-left: 100px;
 	margin-right: 100px;
 	/******************/
-	color: #3d3d3d;
-	font-size: 18px;
+	/*color: #3d3d3d;*/
+	/*font-size: 18px;
 	line-height: 33px;
-	font-weight: 400;
+	font-weight: 400;*/
 }
 #formulario {
 	background:#fafafa;
@@ -739,4 +739,7 @@ margin-top:50px;
 #menu:hover{
 	/*color: red;*/
 	color: #FFCC00;
+}
+#operadores{
+	padding:25px;
 }

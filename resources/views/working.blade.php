@@ -4,7 +4,7 @@
      <link rel="stylesheet" href="css/main.css">
  </head>
  <body>
-  <center><img src="../images/AirbusFactory.jpg" width="320px" height="240px"></center>
+  <center><img src="../images/AirbusFactory.jpg" width="840px" height="420px"></center>
   <center>
       <h2>En construcción</h2>
       <h6>(Así que no podemos vendertelo)</h6>

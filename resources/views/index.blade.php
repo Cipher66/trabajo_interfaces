@@ -51,19 +51,68 @@
 <section id="descripton" class="section descripton">
   <div class="container">
     <div class="col-md-10 col-md-offset-1 text-center">
-      <p>Bienvenido a Airbus, somos pioneros en industria aeronáutica en aviones y helicópteros</p>
+      <p>Bienvenido a Airbus, somos pioneros en industria aeronáutica, civil o militar</p>
       <a href="/shop"><div class="button_CSS">¡Compra un avión/helicóptero!</div></a>
       <br />
-
     </div>
   </div>
 </section>
 <!-- description text section -->
 <center><h1><a id="quienes_somos"></a>¿Qué hacemos?</h1></center>
 <div id="introduccion">
-  Airbus se dedica a diseñar, construir y comercializar aeronaves y helicópteros de todo tipo, tanto civiles como militares.
-<center><a href="conocenos#introduccion"><div class="button_CSS">¡Conócenos!</div></a></center>
+  <div  class="col-md-10 col-md-offset-1 text-center">
+    Airbus se dedica a diseñar, construir y comercializar aeronaves y helicópteros de todo tipo, tanto civiles como militares.
+  </div>
+</div>
 <br />
+<center><a href="conocenos#introduccion" class="col-lg-12 col-md-12"><div class="button_CSS" >¡Conócenos!</div></a></center>
+<br />
+  <center><h1><a></a>Nuestros operadores</h1></center>
+  <center>
+    <div class="col-lg-6 col-md-12" id="operadores">
+      <p>Aeronautica Militaire</p>
+      <img src="images/AM.png" width="200px" height="200px">
+    </div>
+    <div class="col-lg-6 col-md-12" id="operadores">
+      <p>Armee De L'Air</p>
+      <img src="images/AdA.png" width="200px" height="200px">
+    </div>
+    <div class="col-lg-6 col-md-12" id="operadores">
+      <p>Ejército del Aire</p>
+      <img src="images/EdA.png" width="200px" height="200px">
+    </div>
+    <div class="col-lg-6 col-md-12" id="operadores">
+      <p>Kuwait Air Force</p>
+      <img src="images/KAF.png" width="200px" height="200px">
+    </div>
+    <div class="col-lg-6 col-md-12" id="operadores">
+      <p>Luftwaffe</p>
+      <img src="images/Luftwaffe.png" width="200px" height="200px">
+    </div>
+    <div class="col-lg-6 col-md-12" id="operadores">
+      <p>Österreichischen Luftstreitkräfte</p>
+      <img src="images/AuAF.png" width="200px" height="200px">
+    </div>
+    <div class="col-lg-6 col-md-12" id="operadores">
+      <p>Qatar Emirati Air Force</p>
+      <img src="images/QEAF.png" width="200px" height="200px">
+    </div>
+    <div class="col-lg-6 col-md-12" id="operadores">
+      <p>Royal Air Force</p>
+      <img src="images/RAF.png" width="200px" height="200px">
+    </div>
+    <div class="col-lg-6 col-md-12" id="operadores">
+      <p>Royal Air Force of Oman</p>
+      <img src="images/RAFO.png" width="200px" height="200px">
+    </div>
+    <div class="col-lg-6 col-md-12" id="operadores">
+      <p>Royal Saudi Air Force</p>
+      <img src="images/RSAF.png" width="200px" height="200px">
+    </div>
+
+  </center>
+<br />
+
 <!-- footer -->
 <footer class="section footer">
   <center><h3><b>Contactos de redes sociales</b></h3></center>

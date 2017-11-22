@@ -17,22 +17,13 @@
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/animate.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-    <style type="text/css">
-        #map{
-            width: 400px;
-            height: 400px;
+    <style>
+        .carousel-inner > .item > img,
+        .carousel-inner > .item > a > img {
+            width: 70%;
+            margin: auto;
         }
     </style>
-    <script type="text/javascript">
-        function myMap() {
-            var mapOptions = {
-                center: new google.maps.LatLng(51.5, -0.12),
-                zoom: 10,
-                mapTypeId: google.maps.MapTypeId.HYBRID
-            }
-            var map = new google.maps.Map(document.getElementById("map"), mapOptions);
-        }
-    </script>
 </head>
 <body>
 <section class="banner" role="banner">
@@ -82,6 +73,7 @@
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
             <li data-target="#myCarousel" data-slide-to="3"></li>
+            <li data-target="#myCarousel" data-slide-to="4"></li>
         </ol>
 
         <!-- Wrapper for slides -->
@@ -107,14 +99,14 @@
                 <img src="images/EF2000.jpg" alt="Flower" width="460" height="345">
                 <div class="carousel-caption">
                     <h3>Eurofighter Typhoon</h3>
-                    <p>Beautiful flowers in Kolymbari, Crete.</p>
+                    <p>Caza multirol de 4.5 generación</p>
                 </div>
             </div>
 
             <div class="item">
                 <img src="images/EC725.jpg" alt="Flower" width="460" height="345">
                 <div class="carousel-caption">
-                    <h3>EC-725 "Super Cougar"</h3>
+                    <h3>EC725 "Super Cougar"</h3>
                     <p>Beautiful flowers in Kolymbari, Crete.</p>
                 </div>
             </div>
