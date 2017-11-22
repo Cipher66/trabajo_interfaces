@@ -41,7 +41,7 @@
         <div class="header-content clearfix">  <a href="/" id="menu">Menú principal</a>
             <nav class="navigation" role="navigation">
                 <ul class="primary-nav">
-                    <li><a href="registrarse">Registrarse</a></li>
+                    <li><a href="shop" id="rojo">Comprar vehículos</a></li>
                     <li><a href="#quienes_somos">Quienes somos</a></li>
                     <li><a href="multimedia" id="verde">Contenido multimedia</a></li>
                 </ul>
@@ -61,29 +61,18 @@
 </section>
 <center><h1><a id="quienes_somos"></a>¿Quiénes somos?</h1></center>
 <div id="introduccion">
-    Nuestro objetivo es el diagnóstico de vehículos de competición mediante
-    el uso de un dispositivo OBD-II y un servicio web en tiempo real...
+    Airbus S.A.S. (Société par Actions Simplifiée, del francés: Sociedad por Acciones Simplificada) es una división de Airbus Group S.E. (Societas Europaea) que construye aviones civiles. Su sede está en Blagnac, un barrio de Toulouse, Francia. Su producción y sus manufacturas están, sobre todo, en Francia, Alemania, España, China y el Reino Unido.
 
+    Airbus empezó como un consorcio de fabricantes de naves aeroespaciales llamado Airbus Industrie.
+
+    La consolidación de la defensa europea y de las compañías aeroespaciales en 1999 y en el 2000 permitieron el establecimiento de una Sociedad Anónima en 2001, adquirida por EADS (European Aeronautic Defence and Space Company, Compañía Europea Aeronáutica de Defensa y Espacial) (80 %) y por BAE Systems (20 %). Después de un periodo prolongado, BAE vendió su accionariado a EADS el 13 de octubre de 2006.
+
+    Airbus da empleo a unas 63.000 personas en 16 lugares de cuatro países: Francia, Alemania, España y el Reino Unido. El ensamblaje final tiene lugar en Toulouse, Francia; Hamburgo, Alemania; Sevilla, España; y, desde 2009, y conjuntamente con otra empresa, en Tianjin, China. Airbus tiene empresas subsidiarias en los Estados Unidos, Japón y la India.
+
+    La compañía produce y comercializa el primer avión de pasajeros fly-by-wire, el Airbus A320 y el avión de pasajeros más grande del mundo, el Airbus A380. Desde el año 2011 es el mayor fabricante de aviones y equipos aeroespaciales del mundo.
    <!-- <div id="map"></div>
     <div id="map"></div> -->
 </div>
-    <center><h1>¿Donde estámos?</h1></center>
-<h1>My First Google Map</h1>
-
-<div id="map" style="width:400px;height:400px;background:yellow"></div>
-
-<script>
-    function myMap() {
-        var mapOptions = {
-            center: new google.maps.LatLng(51.5, -0.12),
-            zoom: 10,
-            mapTypeId: google.maps.MapTypeId.HYBRID
-        }
-        var map = new google.maps.Map(document.getElementById("map"), mapOptions);
-    }
-</script>
-
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
 <footer class="section footer">
     <center><h3><b>Contactos de redes sociales</b></h3></center>
     <br />

@@ -18,26 +18,13 @@ Route::get('/', function () {
 Route::get('/registrarse', function (){
       return view('contact');
 });
-Route::get('/Datos_de_registro', function (){
-      return view('verDatos');
-});
+
 Route::get('/conocenos', function (){
       return view('conocenos');
 });
-Route::get('/registro', function (){
+Route::get('/shop', function (){
       return view('working');
 });
 Route::get('/multimedia', function (){
       return view('multimedia');
 });
-
-
-Route::post('/Datos_de_registro', function(){
-      $nombre=request()->get('Nombre');
-      $apellido=request()->get('Apellido');
-      $direccion=request()->get('Direccion');
-      $email=request()->get('Email');
-
-      return($nombre.$apellido.$direccion.$email);
-});
-Route::post('/Datos_de_registro','proyecto_DatoController@datosRegistro');

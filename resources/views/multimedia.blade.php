@@ -27,7 +27,7 @@
         <div class="header-content clearfix">  <a href="/" id="menu">Menú principal</a>
             <nav class="navigation" role="navigation">
                 <ul class="primary-nav">
-                    <li><a href="registro" id="rojo">Registrarse</a></li>
+                    <li><a href="shop" id="rojo">Comprar vehículos</a></li>
                     <li><a href="#quienes_somos" id="amarillo">Quienes somos</a></li>
                     <li><a href="multimedia" id="verde">Contenido multimedia</a></li>
                 </ul>
@@ -53,11 +53,11 @@
     <div class="container">
         <div class="col-md-10 col-md-offset-1 text-center">
             <iframe width="840" height="420"
-                    src="https://www.youtube.com/embed/0NSBW8tEGL8">
+                    src="https://www.youtube.com/embed/kOAIndf5nkM">
             </iframe>
             <br />
             <iframe width="840" height="420"
-                    src="https://www.youtube.com/embed/mAts6OlFjYM">
+                    src="https://www.youtube.com/embed/NkF1-0lL_Y4">
             </iframe>
             <br />
             <a href="/"><div class="button_CSS">Volver a la página principal</div></a>

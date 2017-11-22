@@ -10,7 +10,7 @@
 <meta charset="utf-8">
 <meta name="description" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Diagnostico de vehículos</title>
+<title>Airbus</title>
 <link rel="stylesheet" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/jquery.fancybox.css">
 <link rel="stylesheet" href="css/main.css">
@@ -27,8 +27,8 @@
     <div class="header-content clearfix"> <a href="/" id="menu">Menú principal</a>
       <nav class="navigation" role="navigation">
         <ul class="primary-nav">
-          <li><a href="registro" id="rojo">Registrarse</a></li>
-          <li><a href="conocenos#introduccion">Quienes somos</a></li>
+          <li><a href="shop" id="rojo">Comprar vehículos</a></li>
+          <li><a href="conocenos#introduccion">Quiénes somos</a></li>
           <li><a href="multimedia">Contenido multimedia</a></li>
         </ul>
       </nav>
@@ -40,7 +40,7 @@
   <div class="container">
     <div class="col-md-10 col-md-offset-1">
       <div class="banner-text text-center">
-        <h1>Bienvenido a la web de diagnóstico de vehículos en tiempo real</h1>
+        <h1>Bienvenido a la página web de Airbus</h1>
         <!-- banner text -->
       </div>
     </div>
@@ -51,8 +51,8 @@
 <section id="descripton" class="section descripton">
   <div class="container">
     <div class="col-md-10 col-md-offset-1 text-center">
-      <p>Bienvenido, en esta página web podrás hacer un diagnostico a tu vehículo en tiempo real</p>
-      <a href="/registro"><div class="button_CSS">¡Registrate para empezar!</div></a>
+      <p>Bienvenido a Airbus, somos pioneros en industria aeronáutica en aviones y helicópteros</p>
+      <a href="/shop"><div class="button_CSS">¡Compra un avión/helicóptero!</div></a>
       <br />
 
     </div>
@@ -61,9 +61,7 @@
 <!-- description text section -->
 <center><h1><a id="quienes_somos"></a>¿Qué hacemos?</h1></center>
 <div id="introduccion">
-  Esta página web está dedicada a diagnosticar vehículos de competición en tiempo real. Nuestro trabajo es recibir los datos procedentes de los dispositivos
-  OBD instalados en los vehículos y tratarlos de manera que el usuario final pueda entenderlos y tenerlos a su alcance.
-</div>
+  Airbus se dedica a diseñar, construir y comercializar aeronaves y helicópteros de todo tipo, tanto civiles como militares.
 <center><a href="conocenos#introduccion"><div class="button_CSS">¡Conócenos!</div></a></center>
 <br />
 <!-- footer -->
