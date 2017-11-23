@@ -696,7 +696,7 @@ margin-top:50px;
 }
 #formulario {
 	background:#fafafa;
-	color:#797979;
+	/*color:#797979;*/
 	padding:15px 30px;
 	margin-bottom:18px;
 	outline:none;
@@ -708,7 +708,7 @@ margin-top:50px;
 }
 .campos_formulario{
 	background:#fafafa;
-	color:#797979;
+	/*color:#797979;*/
 	padding:15px 30px;
 	border: 3px;
 	border-color: #000;
@@ -742,4 +742,10 @@ margin-top:50px;
 }
 #operadores{
 	padding:25px;
+}
+#p{
+	color: #3d3d3d;
+	font-size: 18px;
+	line-height: 33px;
+	font-weight: 400;
 }

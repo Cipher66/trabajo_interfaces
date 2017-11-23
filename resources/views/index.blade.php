@@ -51,7 +51,7 @@
 <section id="descripton" class="section descripton">
   <div class="container">
     <div class="col-md-10 col-md-offset-1 text-center">
-      <p>Bienvenido a Airbus, somos pioneros en industria aeronáutica, civil o militar</p>
+      <p>Bienvenido a Airbus, somos pioneros en industria aeronáutica, civil o militar.</p>
       <a href="/shop"><div class="button_CSS">¡Compra un avión/helicóptero!</div></a>
       <br />
     </div>
@@ -61,7 +61,7 @@
 <center><h1><a id="quienes_somos"></a>¿Qué hacemos?</h1></center>
 <div id="introduccion">
   <div  class="col-md-10 col-md-offset-1 text-center">
-    Airbus se dedica a diseñar, construir y comercializar aeronaves y helicópteros de todo tipo, tanto civiles como militares.
+    <p id="p">Airbus se dedica a diseñar, construir y comercializar aeronaves y helicópteros de todo tipo, tanto civiles como militares.</p>
   </div>
 </div>
 <br />
@@ -70,7 +70,7 @@
   <center><h1><a></a>Nuestros operadores</h1></center>
   <center>
     <div class="col-lg-6 col-md-12" id="operadores">
-      <p>Aeronautica Militaire</p>
+      <p href="https://es.wikipedia.org/wiki/Aeronautica_Militare">Aeronautica Militare</p>
       <img src="images/AM.png" width="200px" height="200px">
     </div>
     <div class="col-lg-6 col-md-12" id="operadores">
