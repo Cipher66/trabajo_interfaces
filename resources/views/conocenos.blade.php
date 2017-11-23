@@ -83,7 +83,7 @@
                 <img src="images/A400M.jpg" alt="Chania" width="460" height="345">
                 <div class="carousel-caption">
                     <h3>A400M "Atlas"</h3>
-                    <p id="p">Avión de transporte militar de largo alcance con helices.</p>
+                    <p>Avión de transporte militar de largo alcance con helices.</p>
                 </div>
             </div>
 
@@ -91,7 +91,7 @@
                 <img src="images/A330_MRTT.jpg" alt="Chania" width="460" height="345">
                 <div class="carousel-caption">
                     <h3>A330 Multi Role Tanker Transport</h3>
-                    <p id="p">Avión cisterna de reabastecimiento en vuelo basado en el A330-200</p>
+                    <p>Avión cisterna de reabastecimiento en vuelo basado en el A330-200</p>
                 </div>
             </div>
 
@@ -99,7 +99,7 @@
                 <img src="images/EF2000.jpg" alt="Flower" width="460" height="345">
                 <div class="carousel-caption">
                     <h3>Eurofighter Typhoon</h3>
-                    <p id="p">Avión de caza polivalente de 4.5 generación</p>
+                    <p>Avión de caza polivalente de 4.5 generación</p>
                 </div>
             </div>
 
@@ -107,7 +107,7 @@
                 <img src="images/EC725.jpg" alt="Flower" width="460" height="345">
                 <div class="carousel-caption">
                     <h3>EC725 "Super Cougar"</h3>
-                    <p id="p">Helicóptero de transporte táctico desarrollado del AS 532</p>
+                    <p>Helicóptero de transporte táctico desarrollado del AS 532</p>
                 </div>
             </div>
 
@@ -115,7 +115,7 @@
                 <img src="images/NH90.jpg" alt="Flower" width="460" height="345">
                 <div class="carousel-caption">
                     <h3>NH90</h3>
-                    <p id="p">Helicóptero utilitario y de transporte medio</p>
+                    <p>Helicóptero utilitario y de transporte medio</p>
                 </div>
             </div>
 
